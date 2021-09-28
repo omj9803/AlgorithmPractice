@@ -6,8 +6,9 @@ public class n9012_VPS {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         scanner.nextLine();
-        String[] input = new String[num];
-        for (int i = 0; i < num; i++) {
+	String[] input = new String[num];
+        
+	for (int i = 0; i < num; i++) {
             input[i] = scanner.nextLine();
         }
         Loop :
