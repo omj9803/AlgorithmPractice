@@ -4,3 +4,4 @@
 - Bruteforcing
 - Data Structure
 - Mathematics
+- Sorting
