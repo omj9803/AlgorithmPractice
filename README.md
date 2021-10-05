@@ -5,3 +5,4 @@
 - Data Structure
 - Mathematics
 - Sorting
+- Greedy Algorithm
