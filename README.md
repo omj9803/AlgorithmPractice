@@ -6,3 +6,5 @@
 - Mathematics
 - Sorting
 - Greedy Algorithm
+- ad-hoc algorithm
+- Sum
