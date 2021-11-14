@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class n11399_ATM {
     public static void main(String[] args) {
