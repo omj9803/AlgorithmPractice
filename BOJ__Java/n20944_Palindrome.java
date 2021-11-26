@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class n20944_Palindrome {
     public static void main(String[] args) {
