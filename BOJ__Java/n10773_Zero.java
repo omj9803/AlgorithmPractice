@@ -10,7 +10,7 @@ public class n10773_Zero {
         for (int i = 0; i < num; i++) {
             int number = scanner.nextInt();
             if (number == 0) {
-                stack.pop();
+                stack.pop(); 
                 continue;
             }
             stack.push(number);
