@@ -1,4 +1,4 @@
-// 2920. À½°è¸¦ ÀÔ·Â¹Ş¾Æ ascendingÀÎÁö descendingÀÎÁö mixedÀÎÁö ÆÇ´Ü
+// 2920. ìŒê³„ë¥¼ ì…ë ¥ë°›ì•„ ascendingì¸ì§€ descendingì¸ì§€ mixedì¸ì§€ íŒë‹¨
 package Array_1Dimension;
 
 import java.util.Scanner;
