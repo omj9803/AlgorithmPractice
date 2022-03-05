@@ -8,6 +8,6 @@
 - Greedy Algorithm
 - ad-hoc algorithm
 - Sum
-- Math 
+- Math
 
 2022 - Coding Test Type Study Repo
