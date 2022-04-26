@@ -12,5 +12,5 @@
 
 Programmers, SWEA, BOJ
 
-2022 - Coding Test Type Study Repo
+2022 - Coding Test Type Study Repo.
 
