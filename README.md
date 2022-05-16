@@ -9,6 +9,8 @@
 - ad-hoc algorithm
 - Sum
 - Math
+- Graph
+- Dijkstra Algorithm
 
 Programmers, SWEA, BOJ
 
